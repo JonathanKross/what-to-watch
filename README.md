@@ -8,12 +8,14 @@ After completing this assignment, you will...
 - Be able to use the csv module to read files.
 - Be able to use list comprehensions to filter data and perform calculations.
 - Be able to model a problem using objects and functions.
+
 ## Deliverables
 - A Git repo called what-to-watch containing at least:
 - A README.md file explaining how to run your project.
 - A movie_lib.py file containing your classes and functions.
 - A movie_lib_tests.py file containing unit tests.
 - Other Python files containing programs that use the classes in movie_lib.py.
+
 ### Normal Mode
 First, go to the MovieLens website and download the MovieLens 100K data. Unzip it and read the README file to understand the data.
 
